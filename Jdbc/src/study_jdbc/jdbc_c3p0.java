@@ -13,5 +13,6 @@ public class jdbc_c3p0 {
         //2.获取连接对象
         Connection conn = ds.getConnection();
         System.out.println(conn);
+        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh");
     }
 }
